@@ -1,1 +1,32 @@
 /* write your override styles here */
+
+html, body {
+    margin: auto;
+}
+
+#wall {
+    background: repeat;
+    display: block;
+}
+
+#wall .tag-1 {
+    display: none;
+}
+
+#tag-2 {
+    background-color: red;
+}
+
+#tag-3 {
+    width: 200px;
+    background-color: red;
+}
+
+#tag-4 {
+    display: none;
+}
+
+#tag-5 {
+    display: none;
+}
+
